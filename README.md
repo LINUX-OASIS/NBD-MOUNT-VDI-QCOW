@@ -7,7 +7,15 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LINUX-OASIS/NBD-MOUNT-VDI-QCOW/main/.github/wizard.png" alt="Wizard ASCII Art" width="200"/>
+<pre>
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+</pre>
 </p>
 
 An interactive TUI script for easily mounting and unmounting QCOW2 and VDI virtual disk images using Network Block Devices (NBD) on Debian-based systems. Summon devices from the void like a true Discomancer!
@@ -74,9 +82,9 @@ The script will guide you through an interactive menu to mount or unmount your d
 
 This script is designed for Linux distributions that use the `apt` package manager. It has been tested and is known to be compatible with:
 
-*   !Debian
-*   !Ubuntu
-*   !Linux Mint
+*   Debian
+*   Ubuntu
+*   Linux Mint
 *   Other Debian derivatives.
 
 ## 💬 Contributing
